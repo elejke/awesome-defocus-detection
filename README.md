@@ -1,4 +1,4 @@
-# awesome-defocus
+# awesome-defocus-detection
 
 ### Papers:
 
