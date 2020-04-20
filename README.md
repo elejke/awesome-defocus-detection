@@ -16,6 +16,7 @@
 * DeepBlindness: Fast Blindness Map Estimation and Blindness Type Classification for Outdoor Scene from Single Color Image https://arxiv.org/pdf/1911.00652.pdf
 * Self-supervised Blur Detection from Synthetically Blurred Scenes https://arxiv.org/pdf/1908.10638.pdf
 * Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Enhancing_Diversity_of_Defocus_Blur_Detectors_via_Cross-Ensemble_Network_CVPR_2019_paper.pdf) [[code]](https://github.com/wdzhao123/CENet-code)
+* Blur detection via classification [[code]](https://www.kaggle.com/harininarasimhan/blur-detection-with-feature-engineering)
 
 
 ### Datasets:
@@ -23,3 +24,4 @@
 * [E. C. Larson et al.’s] **CSIQ Image Quality Database** http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23
 * [Lee et al.’s] **SYNDOF** https://github.com/codeslake/SYNDOF
 * [Wenda Zhao et al.’s] **DUT-DBD** http://ice.dlut.edu.cn/ZhaoWenda/BTBCRLNet.html
+* [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
