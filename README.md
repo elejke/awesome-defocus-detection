@@ -15,7 +15,7 @@
 * Estimating Defocus Blur via Rank of Local Patches http://openaccess.thecvf.com/content_ICCV_2017/papers/Xu_Estimating_Defocus_Blur_ICCV_2017_paper.pdf
 * DeepBlindness: Fast Blindness Map Estimation and Blindness Type Classification for Outdoor Scene from Single Color Image https://arxiv.org/pdf/1911.00652.pdf
 * Self-supervised Blur Detection from Synthetically Blurred Scenes https://arxiv.org/pdf/1908.10638.pdf
-* Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Enhancing_Diversity_of_Defocus_Blur_Detectors_via_Cross-Ensemble_Network_CVPR_2019_paper.pdf
+* Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Enhancing_Diversity_of_Defocus_Blur_Detectors_via_Cross-Ensemble_Network_CVPR_2019_paper.pdf) [[code]](https://github.com/wdzhao123/CENet-code)
 
 
 ### Datasets:
