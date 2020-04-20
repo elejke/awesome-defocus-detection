@@ -3,6 +3,7 @@
 ### Papers:
 
 * Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes https://github.com/isalirezag/HiFST
+* LBP-based Segmentation of Defocus Blur [[paper]](https://www.cs.usask.ca/faculty/eramian/defocusseg/defocusSeg.pdf)  [[code]](https://github.com/xinario/defocus_segmentation)
 * Discriminative Blur Detection Features http://www.cse.cuhk.edu.hk/leojia/projects/dblurdetect/
 * Blurred Image Region Detection and Classification https://fled.github.io/paper/blur.pdf https://github.com/fled/blur_detection
 * A Unified Approach of Multi-scale Deep and Hand-crafted Features for Defocus Estimation https://arxiv.org/pdf/1704.08992.pdf
