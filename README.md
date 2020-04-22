@@ -2,6 +2,7 @@
 
 ### Papers:
 
+* Regression ! Defocus Blur Map ! Robust ! Deconvolution ! Deblurring ! Mask ! Regression ! [[paper]](https://www.semanticscholar.org/paper/Regression-!-Defocus-Blur-Map-!-Robust-!-!-!-Mask-!-D'Andres-Salvador/d9e247a47157058f208db156734507463a92ab62)
 * Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes https://github.com/isalirezag/HiFST
 * LBP-based Segmentation of Defocus Blur [[paper]](https://www.cs.usask.ca/faculty/eramian/defocusseg/defocusSeg.pdf)  [[code]](https://github.com/xinario/defocus_segmentation)
 * Discriminative Blur Detection Features http://www.cse.cuhk.edu.hk/leojia/projects/dblurdetect/
