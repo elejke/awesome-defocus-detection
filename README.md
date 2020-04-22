@@ -26,3 +26,6 @@
 * [Lee et al.’s] **SYNDOF** https://github.com/codeslake/SYNDOF
 * [Wenda Zhao et al.’s] **DUT-DBD** http://ice.dlut.edu.cn/ZhaoWenda/BTBCRLNet.html
 * [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
+
+### Repos:
+* https://github.com/ZHANGXinxinPKU/defocus-deblurring/tree/master/Defocus_code_xxzhang/blur_map_image
