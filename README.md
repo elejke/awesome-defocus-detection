@@ -27,9 +27,10 @@
 * [Wenda Zhao et al.’s] **DUT-DBD** http://ice.dlut.edu.cn/ZhaoWenda/BTBCRLNet.html
 * [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
 
-### Repos:
+### Sharpness:
 * [!] https://stackoverflow.com/questions/17887883/image-sharpness-metric
 * [!] https://drive.google.com/file/d/0B6UHr3GQEkQwYnlDY2dKNTdudjg/view
 * https://github.com/zjmlovlin/image_sharpness
 * https://github.com/ZHANGXinxinPKU/defocus-deblurring/tree/master/Defocus_code_xxzhang/blur_map_image
 * [!] https://stackoverflow.com/questions/7765810/is-there-a-way-to-detect-if-an-image-is-blurry
+* https://lampsrv02.umiacs.umd.edu/pubs/Papers/jayantkumar-12b/jayantkumar-12b.pdf
