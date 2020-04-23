@@ -28,6 +28,7 @@
 * [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
 
 ### Sharpness:
+* [!] https://github.com/umang-singhal/pydom
 * [!] https://stackoverflow.com/questions/17887883/image-sharpness-metric
 * [!] https://drive.google.com/file/d/0B6UHr3GQEkQwYnlDY2dKNTdudjg/view
 * https://github.com/zjmlovlin/image_sharpness
