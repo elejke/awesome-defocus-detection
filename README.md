@@ -28,4 +28,5 @@
 * [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
 
 ### Repos:
+* https://github.com/zjmlovlin/image_sharpness
 * https://github.com/ZHANGXinxinPKU/defocus-deblurring/tree/master/Defocus_code_xxzhang/blur_map_image
