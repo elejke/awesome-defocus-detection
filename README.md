@@ -2,6 +2,7 @@
 
 ### Papers:
 
+* NO-REFERENCE IMAGE SHARPNESS ASSESSMENT BASED ON LOCAL PHASE COHERENCE MEASUREMENT [[paper]](https://ece.uwaterloo.ca/~z70wang/publications/icassp10a.pdf)
 * Non-parametric Blur Map Regression for Depth of Field Extension [[paper]](https://pdfs.semanticscholar.org/d9e2/47a47157058f208db156734507463a92ab62.pdf?_ga=2.184465955.445050029.1587554554-432469451.1587554554)
 * Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes https://github.com/isalirezag/HiFST
 * LBP-based Segmentation of Defocus Blur [[paper]](https://www.cs.usask.ca/faculty/eramian/defocusseg/defocusSeg.pdf)  [[code]](https://github.com/xinario/defocus_segmentation)
