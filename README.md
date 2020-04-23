@@ -30,3 +30,4 @@
 ### Repos:
 * https://github.com/zjmlovlin/image_sharpness
 * https://github.com/ZHANGXinxinPKU/defocus-deblurring/tree/master/Defocus_code_xxzhang/blur_map_image
+* [!] https://stackoverflow.com/questions/7765810/is-there-a-way-to-detect-if-an-image-is-blurry
