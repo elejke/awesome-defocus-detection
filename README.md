@@ -29,6 +29,7 @@
 * [github] **Sharpness for autofocus** https://github.com/russwong89/sharpness_detection_autofocus
 
 ### Sharpness:
+* [!!] https://ece.uwaterloo.ca/~z70wang/publications/icassp10a.pdf
 * [!] https://github.com/umang-singhal/pydom
 * [!] https://stackoverflow.com/questions/17887883/image-sharpness-metric
 * [!] https://drive.google.com/file/d/0B6UHr3GQEkQwYnlDY2dKNTdudjg/view
