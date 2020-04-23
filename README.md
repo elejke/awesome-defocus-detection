@@ -26,6 +26,7 @@
 * [Lee et al.’s] **SYNDOF** https://github.com/codeslake/SYNDOF
 * [Wenda Zhao et al.’s] **DUT-DBD** http://ice.dlut.edu.cn/ZhaoWenda/BTBCRLNet.html
 * [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
+* [github] **Sharpness for autofocus** https://github.com/russwong89/sharpness_detection_autofocus
 
 ### Sharpness:
 * [!] https://github.com/umang-singhal/pydom
