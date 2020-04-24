@@ -32,7 +32,9 @@
 ## IQA:
 * [!!!!!] https://github.com/ysyscool/SGDNet
 * [!!] https://github.com/subpic/koniq
+* https://github.com/zwx8981/DBCNN-PyTorch
 * https://github.com/idealo/image-quality-assessment/
+* https://github.com/bukalapak/pybrisque
 
 ### Sharpness:
 * [!!] https://ece.uwaterloo.ca/~z70wang/publications/icassp10a.pdf
