@@ -40,6 +40,7 @@
 * https://github.com/bukalapak/pybrisque
 
 ### Sharpness:
+* [!!!] https://github.com/idiap/deepfocus
 * [!!] https://ece.uwaterloo.ca/~z70wang/publications/icassp10a.pdf
 * [!] https://github.com/umang-singhal/pydom
 * [!] https://stackoverflow.com/questions/17887883/image-sharpness-metric
