@@ -29,6 +29,9 @@
 * [Alekseev A.] **Blur detection dataset** https://github.com/Kwentar/blur_dataset
 * [github] **Sharpness for autofocus** https://github.com/russwong89/sharpness_detection_autofocus
 
+## IQA:
+* [!!] https://github.com/subpic/koniq
+
 ### Sharpness:
 * [!!] https://ece.uwaterloo.ca/~z70wang/publications/icassp10a.pdf
 * [!] https://github.com/umang-singhal/pydom
