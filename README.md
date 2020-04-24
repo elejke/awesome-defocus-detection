@@ -30,6 +30,7 @@
 * [github] **Sharpness for autofocus** https://github.com/russwong89/sharpness_detection_autofocus
 
 ## IQA:
+* [!!!!!] https://github.com/ysyscool/SGDNet
 * [!!] https://github.com/subpic/koniq
 * https://github.com/idealo/image-quality-assessment/
 
