@@ -31,6 +31,7 @@
 
 ## IQA:
 * [!!] https://github.com/subpic/koniq
+* https://github.com/idealo/image-quality-assessment/
 
 ### Sharpness:
 * [!!] https://ece.uwaterloo.ca/~z70wang/publications/icassp10a.pdf
