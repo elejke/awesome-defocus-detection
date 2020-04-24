@@ -30,6 +30,7 @@
 * [github] **Sharpness for autofocus** https://github.com/russwong89/sharpness_detection_autofocus
 
 ## IQA:
+* [!!!] https://github.com/baidut/PaQ-2-PiQ
 * [!!!!!] https://github.com/ysyscool/SGDNet
 * [!!] https://github.com/subpic/koniq
 * https://github.com/zwx8981/DBCNN-PyTorch
